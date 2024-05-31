@@ -13,6 +13,9 @@
 </div>
 
 <p align="center">Here you can find my educational projects and more</p>
+<p align="center">This is my favorite pet project 
+    <a href="https://github.com/AlinRika/road_game">"Road Game"</a> 
+</p>
 <p align="center">-`♡´-</p>
 
 <p align="center">※━─━────━─━────━─━────━─━────【₪】────━─━────━─━────━─━────━─━※</p>
@@ -38,7 +41,7 @@
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/selenium/selenium-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
-<a href="https://www.debian.org" target="_blank"> <img src="https://www.debian.org/logos/openlogo-nd-75.jpg" alt="postgresql" width="40" height="40"/>   
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.debian.org" target="_blank"> <img src="https://www.debian.org/logos/openlogo-nd-75.jpg" alt="postgresql" width="40" height="40"/> </a>
 </p>
